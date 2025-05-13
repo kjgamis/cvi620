@@ -16,7 +16,7 @@
 #### Activate
 
 ``` sh
-cvi620_env/bin/activate 
+source cvi620_env/bin/activate
 ```
 
 #### Deactivate
